@@ -1,7 +1,7 @@
 # ProjetoDogflixDaDio
 Projeto realizado no bootcamp da Dio. Objetivo: uma cópia da Netflix (mais antiga). 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarinaDonde/https://github.com/MarinaDonde/ProjetoDogflixDaDio.git)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarinaDonde/ProjetoDogflixDaDio.git)
 
 ### Tecnologias utilizadas:
 
